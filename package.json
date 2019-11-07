@@ -1,0 +1,30 @@
+{
+  "name": "paintjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm start",
+    "deploy": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nohseungrae/paintJS.git"
+  },
+  "author": "nolec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nohseungrae/paintJS/issues"
+  },
+  "homepage": "http://nohseungrae.github.io/paintJS",
+  "dependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/node": "^7.7.0",
+    "@babel/preset-env": "^7.7.1",
+    "express": "^4.17.1",
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
