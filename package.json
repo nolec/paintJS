@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "npm start",
-    "deploy": ""
+    "start": "nodemon --exec babel-node init.js --delay 2",
+    "deploy": "gh-pages"
   },
   "repository": {
     "type": "git",
